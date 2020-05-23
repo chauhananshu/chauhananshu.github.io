@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.paymentwebapp",
+    "sha256_cert_fingerprints":
+    ["AE:B5:4B:44:63:F4:1C:1E:86:D2:21:27:0E:97:75:35:D3:AB:09:E2:2A:B2:6F:5C:D1:7A:9F:4C:A7:89:DF:AC"]
+  }
+}]
